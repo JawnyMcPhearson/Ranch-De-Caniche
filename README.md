@@ -23,21 +23,13 @@ Madrazo's Ranch With Cinema, originally created by AleBrambi45 and modified by T
 | <img src="screenshots/p.jpg" width="250"> | <img src="screenshots/q.jpg" width="250"> | <img src="screenshots/r.jpg" width="250"> |
 | <img src="screenshots/s.jpg" width="250"> | <img src="screenshots/t.jpg" width="250"> | <img src="screenshots/u.jpg" width="250"> |
 | <img src="screenshots/v.jpg" width="250"> | <img src="screenshots/w.jpg" width="250"> | <img src="screenshots/x.jpg" width="250"> |
-| <img src="screenshots/y.jpg" width="250"> | <img src="screenshots/z.jpg" width="250"> | <img src="screenshots/za.jpg" width="250"> |
-| <img src="screenshots/zb.jpg" width="250"> | <img src="screenshots/zc.jpg" width="250"> | <img src="screenshots/zd.jpg" width="250"> |
-| <img src="screenshots/ze.jpg" width="250"> | <img src="screenshots/zf.jpg" width="250"> | <img src="screenshots/zg.jpg" width="250"> |
-| <img src="screenshots/zh.jpg" width="250"> | <img src="screenshots/zi.jpg" width="250"> | <img src="screenshots/zj.jpg" width="250"> |
-| <img src="screenshots/zk.jpg" width="250"> | <img src="screenshots/zl.jpg" width="250"> | <img src="screenshots/zm.jpg" width="250"> |
-| <img src="screenshots/zn.jpg" width="250"> | <img src="screenshots/zo.jpg" width="250"> | <img src="screenshots/zp.jpg" width="250"> |
-| <img src="screenshots/zq.jpg" width="250"> | <img src="screenshots/zr.jpg" width="250"> | <img src="screenshots/zs.jpg" width="250"> |
-| <img src="screenshots/zt.jpg" width="250"> | <img src="screenshots/zu.jpg" width="250"> | <img src="screenshots/zv.jpg" width="250"> |
-| <img src="screenshots/zw.jpg" width="250"> | <img src="screenshots/zx.jpg" width="250"> | <img src="screenshots/zy.jpg" width="250"> |
-| <img src="screenshots/zcinema.jpg" width="250"> | <img src="screenshots/zcinema1.jpg" width="250"> | <img src="screenshots/zcinema2.jpg" width="250"> |
-| <img src="screenshots/zcinema3.jpg" width="250"> | <img src="screenshots/zcinema4.jpg" width="250"> | <img src="screenshots/zcinema5.jpg" width="250"> |
-| <img src="screenshots/zcinema6.jpg" width="250"> | <img src="screenshots/zcinema7.jpg" width="250"> | <img src="screenshots/zcinema8.jpg" width="250"> |
-| <img src="screenshots/zcinema9.jpg" width="250"> | <img src="screenshots/zcinema91.jpg" width="250"> | <img src="screenshots/zcinema92.jpg" width="250"> |
-| <img src="screenshots/zcinema93.jpg" width="250"> | <img src="screenshots/zcinema94.jpg" width="250"> | <img src="screenshots/zcinema95.jpg" width="250"> |
-| <img src="screenshots/zcinema96.jpg" width="250">
+| <img src="screenshots/y.jpg" width="250"> | <img src="screenshots/za.jpg" width="250">| <img src="screenshots/zb.jpg" width="250"> | 
+| <img src="screenshots/zb.jpg" width="250">| <img src="screenshots/zc.jpg" width="250">| <img src="screenshots/zcinema1.jpg" width="250"> |
+| <img src="screenshots/zcinema2.jpg" width="250"> | <img src="screenshots/zcinema3.jpg" width="250"> | <img src="screenshots/zcinema4.jpg" width="250"> |
+| <img src="screenshots/zcinema5.jpg" width="250"> | <img src="screenshots/zcinema6.jpg" width="250"> | <img src="screenshots/zcinema7.jpg" width="250"> |
+| <img src="screenshots/zcinema8.jpg" width="250"> | <img src="screenshots/zcinema9.jpg" width="250"> | <img src="screenshots/zcinema91.jpg" width="250"> |
+| <img src="screenshots/zcinema92.jpg" width="250"> | <img src="screenshots/zcinema93.jpg" width="250"> | <img src="screenshots/zcinema94.jpg" width="250"> |
+| <img src="screenshots/zcinema95.jpg" width="250"> | <img src="screenshots/zcinema96.jpg" width="250"> | <img src="screenshots/zx.jpg" width="250"> |
 
 
 
