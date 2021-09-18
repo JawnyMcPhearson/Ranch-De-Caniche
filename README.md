@@ -40,4 +40,34 @@ Madrazo's Ranch With Cinema, originally created by AleBrambi45 and modified by T
 
 2. Add `start RanchDeCaniche` to your server.cfg
 
+3. type /pmms in chat while near the basement cinema and/or TV screens, select the screen and open advanced settings. Enter the following and save as an entity, not model:
+
+# Ranch Cinema:
+
+volume 100 attenuation
+sameRoom: 0
+diffRoom: 4.2
+diffRoomVolume: 0.25
+range 10
+
+
+# Ranch TV Basement 1
+volume 100
+sameRoom 0.5
+diffRoom 7
+diffRoomVolume":0.02
+range: 10
+
+
+
+
+# Ranch Basement TV 2
+Volume 100
+sameRoom
+0.5
+diffRoom 7
+diffRoomVolume 0.02
+range 10
+
+
 Enjoy =)
