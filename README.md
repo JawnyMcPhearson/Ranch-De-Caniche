@@ -17,27 +17,27 @@ Madrazo's Ranch With Cinema, originally created by AleBrambi45 and modified by T
 |-|-|-|
 | <img src="screenshots/a.jpg" width="250"> | <img src="screenshots/b.jpg" width="250"> | <img src="screenshots/c.jpg" width="250"> |
 | <img src="screenshots/d.jpg" width="250"> | <img src="screenshots/e.jpg" width="250"> | <img src="screenshots/f.jpg" width="250"> |
-| <img src="screenshots/g.jpg" width="250"> | <img src="screenshots/h.png" width="250"> | <img src="screenshots/i.png" width="250"> |
-| <img src="screenshots/j.png" width="250"> | <img src="screenshots/k.png" width="250"> | <img src="screenshots/l.png" width="250"> |
-| <img src="screenshots/m.png" width="250"> | <img src="screenshots/n.png" width="250"> | <img src="screenshots/o.png" width="250"> |
-| <img src="screenshots/p.png" width="250"> | <img src="screenshots/q.png" width="250"> | <img src="screenshots/r.png" width="250"> |
-| <img src="screenshots/s.png" width="250"> | <img src="screenshots/t.png" width="250"> | <img src="screenshots/u.png" width="250"> |
-| <img src="screenshots/v.png" width="250"> | <img src="screenshots/w.png" width="250"> | <img src="screenshots/x.png" width="250"> |
-| <img src="screenshots/y.png" width="250"> | <img src="screenshots/z.png" width="250"> | <img src="screenshots/za.png" width="250"> |
-| <img src="screenshots/zb.png" width="250"> | <img src="screenshots/zc.png" width="250"> | <img src="screenshots/zd.png" width="250"> |
-| <img src="screenshots/ze.png" width="250"> | <img src="screenshots/zf.png" width="250"> | <img src="screenshots/zg.png" width="250"> |
-| <img src="screenshots/zh.png" width="250"> | <img src="screenshots/zi.png" width="250"> | <img src="screenshots/zj.png" width="250"> |
-| <img src="screenshots/zk.png" width="250"> | <img src="screenshots/zl.png" width="250"> | <img src="screenshots/zm.png" width="250"> |
-| <img src="screenshots/zn.png" width="250"> | <img src="screenshots/zo.png" width="250"> | <img src="screenshots/zp.png" width="250"> |
-| <img src="screenshots/zq.png" width="250"> | <img src="screenshots/zr.png" width="250"> | <img src="screenshots/zs.png" width="250"> |
-| <img src="screenshots/zt.png" width="250"> | <img src="screenshots/zu.png" width="250"> | <img src="screenshots/zv.png" width="250"> |
-| <img src="screenshots/zw.png" width="250"> | <img src="screenshots/zx.png" width="250"> | <img src="screenshots/zy.png" width="250"> |
-| <img src="screenshots/zcinema.png" width="250"> | <img src="screenshots/zcinema1.png" width="250"> | <img src="screenshots/zcinema2.png" width="250"> |
-| <img src="screenshots/zcinema3.png" width="250"> | <img src="screenshots/zcinema4.png" width="250"> | <img src="screenshots/zcinema5.png" width="250"> |
-| <img src="screenshots/zcinema6.png" width="250"> | <img src="screenshots/zcinema7.png" width="250"> | <img src="screenshots/zcinema8.png" width="250"> |
-| <img src="screenshots/zcinema9.png" width="250"> | <img src="screenshots/zcinema91.png" width="250"> | <img src="screenshots/zcinema92.png" width="250"> |
-| <img src="screenshots/zcinema93.png" width="250"> | <img src="screenshots/zcinema94.png" width="250"> | <img src="screenshots/zcinema95.png" width="250"> |
-| <img src="screenshots/zcinema96.png" width="250">
+| <img src="screenshots/g.jpg" width="250"> | <img src="screenshots/h.jpg" width="250"> | <img src="screenshots/i.jpg" width="250"> |
+| <img src="screenshots/j.jpg" width="250"> | <img src="screenshots/k.jpg" width="250"> | <img src="screenshots/l.jpg" width="250"> |
+| <img src="screenshots/m.jpg" width="250"> | <img src="screenshots/n.jpg" width="250"> | <img src="screenshots/o.jpg" width="250"> |
+| <img src="screenshots/p.jpg" width="250"> | <img src="screenshots/q.jpg" width="250"> | <img src="screenshots/r.jpg" width="250"> |
+| <img src="screenshots/s.jpg" width="250"> | <img src="screenshots/t.jpg" width="250"> | <img src="screenshots/u.jpg" width="250"> |
+| <img src="screenshots/v.jpg" width="250"> | <img src="screenshots/w.jpg" width="250"> | <img src="screenshots/x.jpg" width="250"> |
+| <img src="screenshots/y.jpg" width="250"> | <img src="screenshots/z.jpg" width="250"> | <img src="screenshots/za.jpg" width="250"> |
+| <img src="screenshots/zb.jpg" width="250"> | <img src="screenshots/zc.jpg" width="250"> | <img src="screenshots/zd.jpg" width="250"> |
+| <img src="screenshots/ze.jpg" width="250"> | <img src="screenshots/zf.jpg" width="250"> | <img src="screenshots/zg.jpg" width="250"> |
+| <img src="screenshots/zh.jpg" width="250"> | <img src="screenshots/zi.jpg" width="250"> | <img src="screenshots/zj.jpg" width="250"> |
+| <img src="screenshots/zk.jpg" width="250"> | <img src="screenshots/zl.jpg" width="250"> | <img src="screenshots/zm.jpg" width="250"> |
+| <img src="screenshots/zn.jpg" width="250"> | <img src="screenshots/zo.jpg" width="250"> | <img src="screenshots/zp.jpg" width="250"> |
+| <img src="screenshots/zq.jpg" width="250"> | <img src="screenshots/zr.jpg" width="250"> | <img src="screenshots/zs.jpg" width="250"> |
+| <img src="screenshots/zt.jpg" width="250"> | <img src="screenshots/zu.jpg" width="250"> | <img src="screenshots/zv.jpg" width="250"> |
+| <img src="screenshots/zw.jpg" width="250"> | <img src="screenshots/zx.jpg" width="250"> | <img src="screenshots/zy.jpg" width="250"> |
+| <img src="screenshots/zcinema.jpg" width="250"> | <img src="screenshots/zcinema1.jpg" width="250"> | <img src="screenshots/zcinema2.jpg" width="250"> |
+| <img src="screenshots/zcinema3.jpg" width="250"> | <img src="screenshots/zcinema4.jpg" width="250"> | <img src="screenshots/zcinema5.jpg" width="250"> |
+| <img src="screenshots/zcinema6.jpg" width="250"> | <img src="screenshots/zcinema7.jpg" width="250"> | <img src="screenshots/zcinema8.jpg" width="250"> |
+| <img src="screenshots/zcinema9.jpg" width="250"> | <img src="screenshots/zcinema91.jpg" width="250"> | <img src="screenshots/zcinema92.jpg" width="250"> |
+| <img src="screenshots/zcinema93.jpg" width="250"> | <img src="screenshots/zcinema94.jpg" width="250"> | <img src="screenshots/zcinema95.jpg" width="250"> |
+| <img src="screenshots/zcinema96.jpg" width="250">
 
 
 
