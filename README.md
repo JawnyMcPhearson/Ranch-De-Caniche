@@ -45,6 +45,6 @@ Madrazo's Ranch With Cinema, originally created by AleBrambi45 and modified by T
 
 1. Add to your resources folder.
 
-2. Add `start Coloured-Poodles` to your server.cfg
+2. Add `start RanchDeCaniche` to your server.cfg
 
 Enjoy =)
