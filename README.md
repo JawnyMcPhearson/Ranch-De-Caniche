@@ -30,6 +30,7 @@ Madrazo's Ranch With Cinema, originally created by AleBrambi45 and modified by T
 | <img src="screenshots/zcinema8.jpg" width="250"> | <img src="screenshots/zcinema9.jpg" width="250"> | <img src="screenshots/zcinema91.jpg" width="250"> |
 | <img src="screenshots/zcinema92.jpg" width="250"> | <img src="screenshots/zcinema93.jpg" width="250"> | <img src="screenshots/zcinema94.jpg" width="250"> |
 | <img src="screenshots/zcinema95.jpg" width="250"> | <img src="screenshots/zcinema96.jpg" width="250"> | <img src="screenshots/zx.jpg" width="250"> |
+| <img src="screenshots/credit.jpg" width="250"> |
 
 
 
