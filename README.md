@@ -69,7 +69,7 @@ diffRoom 7
 diffRoomVolume 0.02
 range 10
 
-PMMS by Kibook is not included in this repository.
+**PMMS by Kibook is NOT included in this repository.**
 
 
 # Enjoy 🥰
