@@ -5,7 +5,7 @@ games { 'gta5' }
 
 authors { 'AleBrambi45', 'TayMcKenzieNZ' }
 description 'Ranch De Caniche'
-version '2.0.0'
+version '2.0.1'
  url 'https://github.com/TayMcKenzieNZ/Ranch-De-Caniche'
 
 
