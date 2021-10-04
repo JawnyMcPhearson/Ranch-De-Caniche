@@ -31,8 +31,7 @@ Madrazo's Ranch With Cinema, originally created by AleBrambi45 and modified by T
 | <img src="screenshots/farm.jpg" width="250"> | <img src="screenshots/farm2.jpg" width="250"> | <img src="screenshots/farm3.jpg" width="250"> |
 | <img src="screenshots/farm4.jpg" width="250"> | <img src="screenshots/fruits.jpg" width="250"> | <img src="screenshots/pool.jpg" width="250"> |
 | <img src="screenshots/security.jpg" width="250"> | <img src="screenshots/security2.jpg" width="250"> | <img src="screenshots/security3.jpg" width="250"> |
-| <img src="screenshots/xmasoff.jpg" width="250"> | <img src="screenshots/xmasoutside.jpg" width="250">
-| <img src="screenshots/credit.jpg" width="250"> |
+| <img src="screenshots/xmasoff.jpg" width="250"> | <img src="screenshots/xmasoutside.jpg" width="250">| <img src="screenshots/credit.jpg" width="250"> |
 
 
 
