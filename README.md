@@ -46,7 +46,16 @@ Madrazo's Ranch With Cinema, originally created by AleBrambi45 and modified by T
 
 3. For Christmas props, add the files provided in the `OPTIONAL XMAS` folder. Backups are provided.
 
-4. Check the ReadMe requirements for PMMS ace permissions
+4. Add the following in server.cfg:
+
+```
+exec resources/[local]/pmms/permissions.cfg
+
+start pmms 
+
+```
+
+Adjust as necessary based on where you installed the resource and what you named it.
 
 5. Type /pmms in chat while near the basement cinema and/or TV screens, select the screen and open advanced settings. Enter the following and save as an entity, not model:
 
