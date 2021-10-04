@@ -44,7 +44,7 @@ Madrazo's Ranch With Cinema, originally created by AleBrambi45 and modified by T
 
 2. Add `start RanchDeCaniche` to your server.cfg
 
-3. For Christmas props, add the files provided in the `OPTIONAL XMAS' folder. Backups are provided.
+3. For Christmas props, add the files provided in the `OPTIONAL XMAS` folder. Backups are provided.
 
 4. Check the ReadMe requirements for PMMS ace permissions
 
