@@ -44,7 +44,12 @@ Madrazo's Ranch With Cinema, originally created by AleBrambi45 and modified by T
 
 2. Add `start RanchDeCaniche` to your server.cfg
 
-3. type /pmms in chat while near the basement cinema and/or TV screens, select the screen and open advanced settings. Enter the following and save as an entity, not model:
+3. For Christmas props, add the files provided in the `OPTIONAL XMAS' folder. Backups are provided.
+
+4. Check the ReadMe requirements for PMMS ace permissions
+
+5. Type /pmms in chat while near the basement cinema and/or TV screens, select the screen and open advanced settings. Enter the following and save as an entity, not model:
+
 
 # Ranch Cinema:
 
