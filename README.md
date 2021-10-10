@@ -32,11 +32,6 @@ Madrazo's Ranch With Cinema, originally created by AleBrambi45 and modified by T
 | <img src="screenshots/farm4.jpg" width="250"> | <img src="screenshots/fruits.jpg" width="250"> | <img src="screenshots/pool.jpg" width="250"> |
 | <img src="screenshots/security.jpg" width="250"> | <img src="screenshots/security2.jpg" width="250"> | <img src="screenshots/security3.jpg" width="250"> |
 | <img src="screenshots/xmasoff.jpg" width="250"> | <img src="screenshots/xmasoutside.jpg" width="250">| <img src="screenshots/credit.jpg" width="250"> |
-| <img src="screenshots/xmas1.jpg" width="250"> | <img src="screenshots/xmas2.jpg" width="250">| <img src="screenshots/xmas3.jpg" width="250"> |
-| <img src="screenshots/xmas4.jpg" width="250"> | <img src="screenshots/xmas5.jpg" width="250">| <img src="screenshots/xmas6.jpg" width="250"> |
-| <img src="screenshots/xmas7.jpg" width="250"> | <img src="screenshots/xmas8.jpg" width="250">| <img src="screenshots/xmas9.jpg" width="250"> |
-| <img src="screenshots/xmas9.jpg" width="250"> | <img src="screenshots/xmashallway.jpg" width="250">| <img src="screenshots/xmaslounge.jpg" width="250"> |
-| <img src="screenshots/xmas9.jpg" width="250"> | <img src="screenshots/xmashallway.jpg" width="250">| <img src="screenshots/xmaslounge.jpg" width="250"> |
 
 
 
