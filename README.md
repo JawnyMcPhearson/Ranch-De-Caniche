@@ -5,9 +5,7 @@ Madrazo's Ranch With Cinema, originally created by AleBrambi45 and modified by T
 'Ranch De Caniche' translates to French, meaning 'Poodle Ranch'.
 
  This resource is for FiveM usage with the understanding that you will not edit or reupload elsewhere. 
- 
  It is to work alongside [[pmms](https://github.com/kibook/pmms)] for playing content on the cinema screen, as well as [[fivem-scenarios](https://github.com/kibook/fivem-scenarios)] for interacting with scenarios around the world, including the cinema seats.
- 
 
 # Screenshots
 
@@ -33,8 +31,7 @@ Madrazo's Ranch With Cinema, originally created by AleBrambi45 and modified by T
 | <img src="screenshots/farm.jpg" width="250"> | <img src="screenshots/farm2.jpg" width="250"> | <img src="screenshots/farm3.jpg" width="250"> |
 | <img src="screenshots/farm4.jpg" width="250"> | <img src="screenshots/fruits.jpg" width="250"> | <img src="screenshots/pool.jpg" width="250"> |
 | <img src="screenshots/security.jpg" width="250"> | <img src="screenshots/security2.jpg" width="250"> | <img src="screenshots/security3.jpg" width="250"> |
-| <img src="screenshots/xmasoff.jpg" width="250"> | <img src="screenshots/xmasoutside.jpg" width="250">
-| <img src="screenshots/credit.jpg" width="250"> |
+| <img src="screenshots/xmasoff.jpg" width="250"> | <img src="screenshots/xmasoutside.jpg" width="250">| <img src="screenshots/credit.jpg" width="250"> |
 
 
 
@@ -44,34 +41,19 @@ Madrazo's Ranch With Cinema, originally created by AleBrambi45 and modified by T
 
 2. Add `start RanchDeCaniche` to your server.cfg
 
-3. type /pmms in chat while near the basement cinema and/or TV screens, select the screen and open advanced settings. Enter the following and save as an entity, not model:
+3. For Christmas props, add the files provided in the `OPTIONAL XMAS` folder. Backups are provided.
 
-# Ranch Cinema:
-
-volume 100 attenuation
-sameRoom: 0
-diffRoom: 4.2
-diffRoomVolume: 0.25
-range 10
+4. Install [pmms](https://github.com/kibook/pmms) and be sure to read the [ReadMe](https://github.com/kibook/pmms/blob/master/README.md) thoroughly.
 
 
-# Ranch TV Basement 1
-volume 100
-sameRoom 0.5
-diffRoom 7
-diffRoomVolume":0.02
-range: 10
+5. Type /pmms in chat while near the basement cinema and/or TV screens, select the screen and open advanced settings. Enter the following and save as an entity, not model:
 
+   | Name                | Volume | Same Room Attenuation | Diff Room Attenuation      | Diff Room Volume      | Range |
+   |---------------------|--------|-----------------------|----------------------------|-----------------------|-------|
+   | Ranch Cinema        | 100    | 0                     | 4.2                        | 0.25                  | 10    |
+   | Ranch TV Basement 1 | 100    | 0.5                   | 7                          | 0.02                  | 10    |
+   | Ranch Basement TV 2 | 100    | 0.5                   | 7                          | 0.02                  | 10    |
 
-
-
-# Ranch Basement TV 2
-Volume 100
-sameRoom
-0.5
-diffRoom 7
-diffRoomVolume 0.02
-range 10
 
 **PMMS by Kibook is NOT included in this repository.**
 
