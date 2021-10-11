@@ -1,11 +1,30 @@
-# Ranch De Caniche
+*"Sit down, shut up and relax!"*
 
-Madrazo's Ranch With Cinema, originally created by AleBrambi45 and modified by TayMcKenzieNZ with permission.
+Located along the Senora Road in Vinewood Hills, situates a ranch previously owned by Martin Madrazo. 
 
-'Ranch De Caniche' translates to French, meaning 'Poodle Ranch'.
+'Ranch De Caniche' translates from French to 'Poodle Ranch'
 
- This resource is for FiveM usage with the understanding that you will not edit or reupload elsewhere. 
- It is to work alongside [[pmms](https://github.com/kibook/pmms)] for playing content on the cinema screen, as well as [[fivem-scenarios](https://github.com/kibook/fivem-scenarios)] for interacting with scenarios around the world, including the cinema seats.
+This resource is for FiveM usage with the understanding that you will not edit or reupload elsewhere.
+
+It is to work alongside [[pmms](https://github.com/kibook/pmms)] for playing content on the cinema screen, as well as [[fivem-scenarios](https://github.com/kibook/fivem-scenarios)] for interacting with scenarios around the world, including the cinema seats.
+
+This MLO is a joint project in collaboration with @AleBrambi45 with his permission that I am able to release and add additional changes, and @SMGMissy who provided the taxidermy addon props.
+
+ It is **FREE** for FiveM and should not be leaked, sold or copied.
+
+# **FEATURES:**
+
+* Two story building :house_with_garden:
+* 2 Offices :desktop_computer:
+* 9 Bedrooms :bed:
+* 2 Walk In Wardrobes :womans_clothes:
+* Enterable Garage :oncoming_automobile:
+* Working Stable Doors :horse:
+* Weeds & Unnecessary Props Removed :tanabata_tree:
+* Cinema With Seating for 43 Players :popcorn:
+* Car Gens - Volatus Helicopter, Ride On Lawn Mower, Quad Bike in garage, Tractors and ranomized vehicle spawn on driveway  :oncoming_automobile:
+* Taxidermy heads credit of @SMGMissy :deer:
+* Optional XMAS Additions :christmas_tree:
 
 # Screenshots
 
