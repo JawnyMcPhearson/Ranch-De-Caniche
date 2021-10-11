@@ -22,8 +22,10 @@
   </YmapFilenames>
   <YtypFilenames>
     <Item>..\door.ytyp</Item>
-    <Item>..\ranchogate_ytyp.ytyp</Item>
-    <Item>..\v_int_56.ytyp</Item>
+    <Item>..\..\xmas\ranchogate_ytyp.ytyp</Item>
+    <Item>..\..\xmas\v_int_56.ytyp</Item>
+    <Item>..\heads\deerhead_ytyp.ytyp</Item>
+    <Item>..\heads\fish_ytyp.ytyp</Item>
   </YtypFilenames>
   <YbnFilenames>
     <Item>..\ch2_03c_0.ybn</Item>
@@ -36,6 +38,8 @@
     <Item>..\hi@ch2_03c_0.ybn</Item>
     <Item>..\rancho_gate_collision.ybn</Item>
     <Item>..\v_ranch.ybn</Item>
+    <Item>..\heads\deerhead_col.ybn</Item>
+    <Item>..\heads\fish_col.ybn</Item>
   </YbnFilenames>
   <YndFilenames />
   <YnvFilenames />
