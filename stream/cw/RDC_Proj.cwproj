@@ -26,6 +26,10 @@
     <Item>..\..\xmas\v_int_56.ytyp</Item>
     <Item>..\heads\deerhead_ytyp.ytyp</Item>
     <Item>..\heads\fish_ytyp.ytyp</Item>
+    <Item>..\deerhead_ytyp.ytyp</Item>
+    <Item>..\fish_ytyp.ytyp</Item>
+    <Item>..\ranchogate_ytyp.ytyp</Item>
+    <Item>..\v_int_56.ytyp</Item>
   </YtypFilenames>
   <YbnFilenames>
     <Item>..\ch2_03c_0.ybn</Item>
