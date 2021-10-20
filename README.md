@@ -8,9 +8,9 @@ This resource is for FiveM usage with the understanding that you will not edit o
 
 It is to work alongside [[pmms](https://github.com/kibook/pmms)] for playing content on the cinema screen, as well as [[fivem-scenarios](https://github.com/kibook/fivem-scenarios)] for interacting with scenarios around the world, including the cinema seats.
 
-This MLO is a joint project in collaboration with @AleBrambi45 with his permission that I am able to release and add additional changes, and @SMGMissy who provided the taxidermy addon props.
+This MLO is a joint project in collaboration with @AleBrambi45 and SMGMissy, with AleBrambi's permission that I am able to release and add additional changes, and @SMGMissy who provided the taxidermy addon props.
 
- It is **FREE** for FiveM and should not be leaked, sold or copied.
+ It is **FREE** for FiveM and should not be leaked, sold or modified without my permission.
 
 # **FEATURES:**
 
