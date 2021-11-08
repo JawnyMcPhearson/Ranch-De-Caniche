@@ -5,17 +5,15 @@ game { 'gta5' }
 
 authors { 'AleBrambi45', 'TayMcKenzieNZ, SMGMissy' }
 description 'Ranch De Caniche'
-version '2.0.3'
+version '2.0.4'
  url 'https://github.com/TayMcKenzieNZ/Ranch-De-Caniche'
-
 
 this_is_a_map 'yes'
 
+data_file "DLC_ITYP_REQUEST" "taxidermyprops.ytyp"
 
 
-data_file "DLC_ITYP_REQUEST" "fish_ytyp.ytyp"
 
-data_file "DLC_ITYP_REQUEST" "deerhead_ytyp.ytyp"
 
 
 
