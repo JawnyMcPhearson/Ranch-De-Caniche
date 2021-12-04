@@ -1,10 +1,4 @@
-*"Sit down, shut up and relax!"*
-
-Located along the Senora Road in Vinewood Hills, situates a ranch previously owned by Martin Madrazo. 
-
-'Ranch De Caniche' translates from French to 'Poodle Ranch'
-
-This resource is for FiveM usage with the understanding that you will not edit or reupload elsewhere.
+This resource is for FiveM usage with the understanding that you will not modify, sell or reupload elsewhere without my permission.
 
 It is to work alongside [[pmms](https://github.com/kibook/pmms)] for playing content on the cinema screen, as well as [[fivem-scenarios](https://github.com/kibook/fivem-scenarios)] for interacting with scenarios around the world, including the cinema seats.
 
