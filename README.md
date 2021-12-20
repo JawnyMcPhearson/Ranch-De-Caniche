@@ -1,10 +1,7 @@
-This resource is for FiveM usage with the understanding that you will not modify, sell or reupload elsewhere without my permission.
+# Ranch De Caniche 
 
-It is to work alongside [[pmms](https://github.com/kibook/pmms)] for playing content on the cinema screen, as well as [[fivem-scenarios](https://github.com/kibook/fivem-scenarios)] for interacting with scenarios around the world, including the cinema seats.
+This MLO is a joint project in collaboration with AleBrambi45 and SMGMissy, with AleBrambi's permission that I am able to release and add additional changes, and SMGMissy who provided the taxidermy addon props.
 
-This MLO is a joint project in collaboration with @AleBrambi45 and SMGMissy, with AleBrambi's permission that I am able to release and add additional changes, and @SMGMissy who provided the taxidermy addon props.
-
- It is **FREE** for FiveM and should not be leaked, sold or modified without my permission.
 
 # **FEATURES:**
 
@@ -69,6 +66,21 @@ This MLO is a joint project in collaboration with @AleBrambi45 and SMGMissy, wit
 
 
 **PMMS by Kibook is NOT included in this repository.**
+
+
+---------------------------------------
+
+# License 
+
+This project does not contain a license, therefore you are not allowed to add one and claim it as yours.
+
+You are not allowed to sell this nor re-distribute it. 
+
+You are not allowed to change/add a license. If you want to modify or make an agreement, you can contact me. 
+
+Pull requests are accepted as long as they do not contain breaking changes. 
+
+You can read more here [HERE](https://opensource.stackexchange.com/questions/1720/what-can-i-assume-if-a-publicly-published-project-has-no-license)
 
 
 # Enjoy 🥰
