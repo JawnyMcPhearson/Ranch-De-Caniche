@@ -1,4 +1,4 @@
-# Ranch De Caniche 
+# Ranch De Caniche 🐩
 
 This MLO is a joint project in collaboration with AleBrambi45 and SMGMissy, with AleBrambi's permission that I am able to release and add additional changes, and SMGMissy who provided the taxidermy addon props.
 
@@ -15,7 +15,14 @@ This MLO is a joint project in collaboration with AleBrambi45 and SMGMissy, with
 * Cinema With Seating for 43 Players :popcorn:
 * Car Gens - Volatus Helicopter, Ride On Lawn Mower, Quad Bike in garage, Tractors and ranomized vehicle spawn on driveway  :oncoming_automobile:
 * Taxidermy heads credit of @SMGMissy :deer:
-* Optional XMAS Additions :christmas_tree:
+
+# **OPTIONAL FEATURES:**
+
+* Christmas decorations inside ranch and garage 🎄
+* Christmas tree and snowmen outside ☃️
+* Removal of Volatus Helicopter, Quad Bike in garage and ranomized vehicle spawn on driveway 🚳
+
+---------------------------------------
 
 # Screenshots
 
@@ -43,7 +50,7 @@ This MLO is a joint project in collaboration with AleBrambi45 and SMGMissy, with
 | <img src="screenshots/credit.jpg" width="250"> |
 
 
-
+---------------------------------------
 
 # Installing
 
@@ -51,7 +58,7 @@ This MLO is a joint project in collaboration with AleBrambi45 and SMGMissy, with
 
 2. Add `start RanchDeCaniche` to your server.cfg
 
-3. For Christmas props, add the files provided in the `OPTIONAL XMAS` folder. Backups are provided.
+3. For Christmas props, add the files provided in the `XMAS AND OPTIONAL FILES.zip` folder. Backups of the original ranch content has been provided. 
 
 4. Install [pmms](https://github.com/kibook/pmms) and be sure to read the [ReadMe](https://github.com/kibook/pmms/blob/master/README.md) thoroughly.
 
@@ -72,7 +79,7 @@ This MLO is a joint project in collaboration with AleBrambi45 and SMGMissy, with
 
 # License 
 
-This project does not contain a license, therefore you are not allowed to add one and claim it as yours.
+This repository is a joint project with the contributors conisiting of AleBrambi45, @SMGMissy and myself, TayMcKenzieNZ and does not contain a license, therefore you are not allowed to add one and claim it as yours.
 
 You are not allowed to sell this nor re-distribute it. 
 
