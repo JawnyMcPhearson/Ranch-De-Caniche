@@ -91,3 +91,25 @@ You can read more here [HERE](https://opensource.stackexchange.com/questions/172
 
 
 # Enjoy 🥰
+
+------------------------
+
+# FAQs
+
+**Q: I bought a similar map from someone! WTF!?**
+
+**A:** You got scammed. 
+
+-------------
+
+**Q: The map goes invisible or I crash near this area, why?**
+
+**A:** Prison maps such as the [Bolingbroke Penitentiary For FiveM](https://github.com/qbcore-framework/prison_map) and the [QB-Prison Framework](https://github.com/qbcore-framework) seem to cause a crash while the player is on foot. 
+
+This is a compatibility issue with the prison map / framework, and not this resource.
+
+-------------
+
+**Q: Can I modify this in any way?**
+
+**A:** Not without my permission, no.
