@@ -10,7 +10,7 @@ version '2.0.5'
 
 this_is_a_map 'yes'
 
-data_file "DLC_ITYP_REQUEST" "taxidermyprops.ytyp"
+data_file "DLC_ITYP_REQUEST" "tays_props_ytyp.ytyp"
 
 
 
