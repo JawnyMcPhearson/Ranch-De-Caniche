@@ -15,7 +15,6 @@ This MLO is a joint project in collaboration with AleBrambi45 and SMGMissy, with
 * Cinema With Seating for 43 Players :popcorn:
 * Car Gens - Volatus Helicopter, Ride On Lawn Mower, Quad Bike in garage, Tractors and ranomized vehicle spawn on driveway  :oncoming_automobile:
 * Taxidermy heads credit of @SMGMissy :deer:
-* Retextured dog house and dog bed by TayMcKenzieNZ
 
 # **OPTIONAL FEATURES:**
 
@@ -47,8 +46,8 @@ This MLO is a joint project in collaboration with AleBrambi45 and SMGMissy, with
 | <img src="screenshots/zcinema92.jpg" width="250"> | <img src="screenshots/zcinema93.jpg" width="250"> | <img src="screenshots/zcinema94.jpg" width="250"> |
 | <img src="screenshots/zcinema95.jpg" width="250"> | <img src="screenshots/zcinema96.jpg" width="250"> | <img src="screenshots/zx.jpg" width="250"> |
 | <img src="screenshots/fruits.jpg" width="250"> | <img src="screenshots/security.jpg" width="250"> | <img src="screenshots/security2.jpg" width="250"> | 
-| <img src="screenshots/security3.jpg" width="250"> | <img src="screenshots/dogbed.png" width="250"> | <img src="screenshots/doghouse.png" width="250">| 
-| <img src="screenshots/xmasoff.jpg" width="250"> | <img src="screenshots/xmasoutside.jpg" width="250">| | <img src="screenshots/credit.jpg" width="250"> |
+| <img src="screenshots/security3.jpg" width="250"> | <img src="screenshots/xmasoff.jpg" width="250"> | <img src="screenshots/xmasoutside.jpg" width="250">| 
+| <img src="screenshots/credit.jpg" width="250"> |
 
 
 ---------------------------------------
