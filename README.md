@@ -113,3 +113,9 @@ This is a compatibility issue with the prison map and not this resource.
 **Q: Can I modify this in any way? I want to modify the basement.**
 
 **A:** Not without my permission, no.
+
+-------------
+
+**Q:** Can I DM you? I need help with something.**
+
+**A: NO**
